@@ -1,0 +1,105 @@
+#search-banner {
+  margin-top: 100px;
+  min-height: 300px;
+  text-align: center;
+  justify-content: center;
+  display: table;
+}
+#searchform {
+  text-align-last: center;
+}
+#images-row {
+  margin-top: 15px;
+  margin-bottom: 20px;
+}
+.imgh {
+  border-radius: 50px;
+  padding: 5px;
+  width: 90px;
+}
+.img .card-images {
+  height: 200px;
+  width: 284px;
+}
+
+#hoteladvertmessage {
+  position: relative;
+  margin-top: 30px;
+}
+.searching-button-for-rooms {
+  background-color: #0a58ca;
+  color: white;
+  width: 100%;
+  height: 37px;
+  border: hidden;
+}
+
+.rating-point-of-hotel {
+  text-align: end;
+  padding: 10px;
+  background-color: #eef6fe;
+  margin-bottom: 10px;
+  color: #6dcc2e;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+.payment-advertbox-context {
+  text-align: end;
+  padding: 10px;
+  background-color: #eef6fe;
+  margin-bottom: 10px;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+.comment {
+  font-size: 0.5em;
+  color: #666666;
+  margin: 0;
+  font-weight: 350;
+}
+
+.world {
+  font-weight: 800;
+  color: #84399c;
+  font-size: 1.2em;
+}
+.speacial-for-world {
+  font-weight: 500;
+  color: #84399c;
+  font-size: 0.7em;
+}
+
+.information-for-price {
+  border-radius: 3px;
+  text-align: end;
+  background-color: #dedede;
+  font-size: 0.5em;
+  margin: 1px;
+  width: 45%;
+  text-align: center;
+  border-radius: 8px;
+  display: inline-block;
+}
+
+.price {
+  text-align: end;
+  padding: 10px;
+  margin-bottom: 10px;
+  color: #6dcc2e;
+  font-weight: 600;
+  font-size: 1.2em;
+}
+
+.information-for-booking{
+    font-size: 0.6em;
+    margin-bottom: 5px;
+}
+
+.information-otel {
+    font-size: 0.8em;
+    margin-right: 5px;
+    color: #666666;
+    display: inline;
+}

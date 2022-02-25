@@ -1,0 +1,5150 @@
+{
+        "hotellist": [
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": 2
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": 3
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 1,
+                "shid": 371,
+                "hotelName": "Ela Excellence Resort Belek ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "İskele Mevki",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "ela_excellence_resort_belek__4214.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,041600000000",
+                "latitude": "36,856300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "ela-excellence-resort-belek"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 1018,
+                "shid": 1805,
+                "hotelName": "Monottoman Otel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Alaçatı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "monottoman_otel_33618.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "monottoman-otel"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 2453,
+                "shid": 9880,
+                "hotelName": "Arts Hotel Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Yalıkavak",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "arts_hotel_bodrum_55084.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "arts-hotel-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çakıl Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "İskele",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2399,
+                "shid": 9704,
+                "hotelName": "Blue Dreams Resort ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Torba",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "blue_dreams_resort__54196.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,488148000000",
+                "latitude": "37,086623000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "blue-dreams-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "İleri Yaş Dostu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2392,
+                "shid": 9665,
+                "hotelName": "Club Marma Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Akyarlar",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "club_marma_hotel_54047.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,299860000000",
+                "latitude": "36,970440000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "club-marma-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Tesise Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2372,
+                "shid": 9611,
+                "hotelName": "Kairaba Alaçatı Beach Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Alaçatı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "kairaba_alacati_beach_resort_53514.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "kairaba-alacati-beach-resort"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 2304,
+                "shid": 3242,
+                "hotelName": "Kekik Alaçatı Otel Hacımemiş",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Alaçatı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "kekik_alacati_otel_hacimemis_52652.jpeg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "kekik-alacati-otel-hacimemis"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2300,
+                "shid": 3238,
+                "hotelName": "Reges a Luxury Collection Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Çeşme",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "reges_a_luxury_collection_resort_spa_52611.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "reges-a-luxury-collection-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2276,
+                "shid": 3213,
+                "hotelName": "Club Marco Polo",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Çamyuva",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "club_marco_polo_52418.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "club-marco-polo"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Tekerlekli Sandalye Kullanımına Uygun",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2229,
+                "shid": 3154,
+                "hotelName": "Tui Blue Ephesus ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Aydın",
+                "hotelTown": "Kuşadası",
+                "hotelRegion": "Pamucak",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "tui_blue_ephesus__51849.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,277000000000",
+                "latitude": "37,922000000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "tui-blue-ephesus"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 2172,
+                "shid": 3081,
+                "hotelName": "Hotel De Gold Alaçatı",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Alaçatı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "hotel_de_gold_alacati_50890.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,370750000000",
+                "latitude": "38,282230000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "hotel-de-gold-alacati"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 2020,
+                "shid": 2908,
+                "hotelName": "Alaçatı Cadde 75 Luxury",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Alaçatı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "alacati_cadde_75_luxury_48565.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,380370000000",
+                "latitude": "38,280090000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "alacati-cadde-75-luxury"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "İleri Yaş Dostu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 1081,
+                "shid": 1877,
+                "hotelName": "Haydarpasha Palace",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Alanya",
+                "hotelRegion": "Türkler",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "haydarpasha_palace_35034.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "haydarpasha-palace"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 1024,
+                "shid": 1812,
+                "hotelName": "Lujo Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Güvercinlik",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "lujo_bodrum_33802.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,561200000000",
+                "latitude": "37,135800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "lujo-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Açık Büfe Kahvaltı",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Yetişkinlere Özel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 967,
+                "shid": 1735,
+                "hotelName": "Kapadokya Hill Hotel & Spa 12+ ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Nevşehir",
+                "hotelTown": "Merkez",
+                "hotelRegion": "Göre",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "kapadokya_hill_hotel_spa_12+__32692.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "34,718200000000",
+                "latitude": "38,594500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "kapadokya-hill-hotel-spa-12plus"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 2470,
+                "shid": 9996,
+                "hotelName": "Elite World Sapanca Convention&Wellness Resort  ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Sakarya",
+                "hotelTown": "Sapanca",
+                "hotelRegion": "Sapanca",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "elite_world_sapanca_conventionwellness_resort__55384.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,295444000000",
+                "latitude": "40,688562000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "elite-world-sapanca-convention-wellness-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 807,
+                "shid": 1551,
+                "hotelName": "Club Marvy",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Menderes",
+                "hotelRegion": "Özdere",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "club_marvy_30368.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,110000000000",
+                "latitude": "38,007500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "club-marvy"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 777,
+                "shid": 1517,
+                "hotelName": "Hotel Caeli Eceabat",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Çanakkale",
+                "hotelTown": "Eceabat",
+                "hotelRegion": "Eceabat",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "hotel_caeli_eceabat_29863.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,382500000000",
+                "latitude": "40,265700000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "hotel-caeli-eceabat"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aquapark",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 673,
+                "shid": 1400,
+                "hotelName": "Orange County Alanya",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Alanya",
+                "hotelRegion": "Okurcalar",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "orange_county_alanya_27764.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,686300000000",
+                "latitude": "36,649900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "orange-county-alanya"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Yetişkinlere Özel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 672,
+                "shid": 1399,
+                "hotelName": "Orange County Kemer – Adult Only +16",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "orange_county_kemer_–_adult_only_+16_27735.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,558900000000",
+                "latitude": "36,609100000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "orange-county-kemer-adult-only-plus16"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 669,
+                "shid": 1396,
+                "hotelName": "Grand Şeker Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Side",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "grand_seker_hotel_27666.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,339800000000",
+                "latitude": "36,810500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "grand-seker-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 647,
+                "shid": 1372,
+                "hotelName": "Royal Seginus Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Muratpaşa",
+                "hotelRegion": "Lara",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "royal_seginus_hotel_27162.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,891600000000",
+                "latitude": "36,858100000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "royal-seginus-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 639,
+                "shid": 1363,
+                "hotelName": "Bodrum Holiday Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "İçmeler",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bodrum_holiday_resort_spa_26919.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27.4612",
+                "latitude": "37.0061",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "bodrum-holiday-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Koylu Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 612,
+                "shid": 1330,
+                "hotelName": "Club Hotel Letoonia Fethiye",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Fethiye",
+                "hotelRegion": "Fethiye",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "club_hotel_letoonia_fethiye_26186.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29,098300000000",
+                "latitude": "36,638020000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "club-hotel-letoonia-fethiye"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 606,
+                "shid": 1322,
+                "hotelName": "Bacacan Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Balıkesir",
+                "hotelTown": "Ayvalık",
+                "hotelRegion": "",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bacacan_hotel_26081.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,696600000000",
+                "latitude": "39,326400000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "bacacan-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Gazebo",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 562,
+                "shid": 1266,
+                "hotelName": "Swandor Hotels & Resort Topkapı Palace",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Muratpaşa",
+                "hotelRegion": "Lara",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "swandor_hotels_resort_topkapi_palace_25105.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,914500000000",
+                "latitude": "36,857000000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "swandor-hotels-resort-topkapi-palace"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 551,
+                "shid": 1251,
+                "hotelName": "Cape Bodrum Luxury Hotel & Beach",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Gündoğan",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "cape_bodrum_luxury_hotel_beach_24764.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,340000000000",
+                "latitude": "37,139300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "cape-bodrum-luxury-hotel-beach"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "İskele",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 548,
+                "shid": 1248,
+                "hotelName": "Mirage Park Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Göynük",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "mirage_park_resort_24702.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,558900000000",
+                "latitude": "36,659400000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "mirage-park-resort"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 478,
+                "shid": 1140,
+                "hotelName": "Assos Park Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Çanakkale",
+                "hotelTown": "Ayvacık",
+                "hotelRegion": "Assos",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "assos_park_hotel_22869.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26.371",
+                "latitude": "39.4942",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "assos-park-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Genç Dostu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2459,
+                "shid": 9933,
+                "hotelName": "Paloma Finesse ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Side",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "paloma_finesse__55190.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,441925000000",
+                "latitude": "36,765063000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "paloma-finesse"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Engelli Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kongre Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Tekerlekli Sandalye Kullanımına Uygun",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2512,
+                "shid": 10168,
+                "hotelName": "Pine Beach Belek",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "Belek",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "pine_beach_belek_56127.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,088100000000",
+                "latitude": "36,846330000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "pine-beach-belek"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 447,
+                "shid": 1094,
+                "hotelName": "Side Sunport Hotel & Spa (ex.Side Sungate)",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Evrenseki",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "side_sunport_hotel_spa_(ex.side_sungate)_21997.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,337000000000",
+                "latitude": "36,809300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "side-sunport-hotel-spa-ex.side-sungate"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 3867,
+                "shid": 168449,
+                "hotelName": "Lov Faralya",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Fethiye",
+                "hotelRegion": "Faralya",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "sandalwood_glamping_easyliving_73201.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29,105282600000",
+                "latitude": "36,476640600000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "lov-faralya"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 4159,
+                "shid": 9713,
+                "hotelName": "Double Tree By Hilton Çeşme Alaçatı Beach Resort ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Alaçatı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,341412000000",
+                "latitude": "38,218988000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "double-tree-by-hilton-cesme-alacati-beach-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Basketbol",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Dart",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Masa Tenisi",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mini Futbol",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mini Golf",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Plaj Voleybolu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Sauna",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Türk Hamamı",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Türk Kahvesi",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 4089,
+                "shid": 1066,
+                "hotelName": "Grand Yazıcı Club Marmaris Palace",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Marmaris",
+                "hotelRegion": "",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "28.2433",
+                "latitude": "36.8193",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "grand-yazici-club-marmaris-palace"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 4071,
+                "shid": 475,
+                "hotelName": "Crystal Family Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "Boğazkent",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,148600000000",
+                "latitude": "36,834500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-family-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Termal Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 4068,
+                "shid": 370,
+                "hotelName": "Altın Yunus Resort & Thermal Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Boyalık",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "altin_yunus_resort_thermal_hotel_4035.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,341000000000",
+                "latitude": "38,319400000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "altin-yunus-resort-thermal-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Hayvan Dostu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum-Çakıl Palj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 4018,
+                "shid": 168177,
+                "hotelName": "DoubleTree by Hilton Bodrum Işıl Club Resort  ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Torba",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,477200000000",
+                "latitude": "37,085500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "doubletree-by-hilton-bodrum-isil-club-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "İleri Yaş Dostu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 4005,
+                "shid": 10357,
+                "hotelName": "Aquaworld Belek ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "İskele Mevki",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,048040000000",
+                "latitude": "36,854580000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "aquaworld-belek"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çevre Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Emanet Kasa",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Genel Alan Wifi",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lobi Wifi",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Otopark",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Uyandırma Servisi",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Vale Hizmeti",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Wifi",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 4000,
+                "shid": 2902,
+                "hotelName": "Lissiya Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Fethiye",
+                "hotelRegion": "Faralya",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29,128530000000",
+                "latitude": "36,470330000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "lissiya-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3980,
+                "shid": 168642,
+                "hotelName": "Rubi Platinum Sign",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Alanya",
+                "hotelRegion": "",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "rubi_platinum_sign_74968.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,776440000000",
+                "latitude": "36,605990000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "rubi-platinum-sign"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Pavillon",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3979,
+                "shid": 168639,
+                "hotelName": "Rubi Platinum Spa Resort & Suites",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Alanya",
+                "hotelRegion": "Avsallar",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "rubi_platinum_spa_resort_suites_74934.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,764700000000",
+                "latitude": "36,623130000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "rubi-platinum-spa-resort-suites"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Koylu Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3946,
+                "shid": 168596,
+                "hotelName": "Mylome Luxury Hotel & Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Alanya",
+                "hotelRegion": "Okurcalar",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "mylome_luxury_hotel_resort_74526.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "mylome-luxury-hotel-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Yetişkinlere Özel",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Otopark",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Açık Havuz",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3931,
+                "shid": 168569,
+                "hotelName": "Villa Pine Garden Ağva",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İstanbul",
+                "hotelTown": "Şile",
+                "hotelRegion": "Ağva",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "villa_pine_garden_agva_74250.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29,849000000000",
+                "latitude": "41,114200000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "villa-pine-garden-agva"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aquapark",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Genç Dostu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3920,
+                "shid": 168547,
+                "hotelName": "Spice Hotel & SPA",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "İskele Mevki",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "spice_hotel_spa_73947.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,065430000000",
+                "latitude": "36,850700000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "spice-hotel-spa"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 3865,
+                "shid": 168446,
+                "hotelName": "Vagona Tiny House  ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Rize",
+                "hotelTown": "Camlihemsin",
+                "hotelRegion": "Camlihemsin",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "41,040500000000",
+                "latitude": "41,086700000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "vagona-tiny-house"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çevre Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Yetişkinlere Özel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2580,
+                "shid": 10335,
+                "hotelName": "Marmaris Bay Resort By Mp Hotels",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Marmaris",
+                "hotelRegion": "Marmaris",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "marmaris_bay_resort_by_mp_hotels_57025.jpeg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "28,313550000000",
+                "latitude": "36,821430000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "marmaris-bay-resort-by-mp-hotels"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 3843,
+                "shid": 168414,
+                "hotelName": "Concorde Tower & Casino & Convention & SPA",
+                "boardName": null,
+                "hotelCountry": "Kıbrıs",
+                "hotelCity": "Lefkoşa",
+                "hotelTown": "Merkez (Lefkoşa)",
+                "hotelRegion": "Merkez (Lefkoşa)",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "concorde_tower_casino_convention_spa_72959.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "concorde-tower-casino-convention-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3788,
+                "shid": 168328,
+                "hotelName": "Liu Resorts",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Side",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "liu_resorts_72084.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,278570000000",
+                "latitude": "6,823480000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "liu-resorts"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çevre Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3521,
+                "shid": 167926,
+                "hotelName": "Doora Bodrum Hotel ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Torba",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "doora_bodrum_hotel__68051.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,481440000000",
+                "latitude": "37,087290000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "doora-bodrum-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum-Çakıl Palj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3499,
+                "shid": 167873,
+                "hotelName": "Sundia By Liberty Exclusive Fethiye",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Fethiye",
+                "hotelRegion": "Çalış",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "sundia_by_liberty_exclusive_fethiye_67743.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29,106500000000",
+                "latitude": "36,668300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "sundia-by-liberty-exclusive-fethiye"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doktor",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3484,
+                "shid": 167847,
+                "hotelName": "Seven Seas Hotel Life",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Göynük",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "seven_seas_hotel_life_67491.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,563670000000",
+                "latitude": "36,667970000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "seven-seas-hotel-life"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3481,
+                "shid": 167844,
+                "hotelName": "Seven Seas Hotel Blue",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Sorgun",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "seven_seas_hotel_blue_67058.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,447440000000",
+                "latitude": "36,752990000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "seven-seas-hotel-blue"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3459,
+                "shid": 167804,
+                "hotelName": "The Oba Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Torba",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "the_oba_hotel_66487.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,501590000000",
+                "latitude": "37,102610000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "the-oba-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "İstanbul’a Yakın Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3437,
+                "shid": 167775,
+                "hotelName": "Ng Enjoy",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Sakarya",
+                "hotelTown": "Sapanca",
+                "hotelRegion": "Sapanca",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "ng_enjoy_65871.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,215408000000",
+                "latitude": "40,689922000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "ng-enjoy"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kaydıraklı Havuz",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3428,
+                "shid": 167763,
+                "hotelName": "Melas Lara Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Muratpaşa",
+                "hotelRegion": "Lara",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "melas_lara_hotel_65583.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,892200000000",
+                "latitude": "36,857000000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "melas-lara-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çevre Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 3250,
+                "shid": 12552,
+                "hotelName": "Pirate's Beach Club",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Tekirova",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "pirates_beach_club_63580.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,536476000000",
+                "latitude": "36,505655000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "pirate-s-beach-club"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "A La Carte Restoran",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Açık Havuz",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kapalı Havuz",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Otopark",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Buhar Odası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Sauna",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Türk Hamamı",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2800,
+                "shid": 10733,
+                "hotelName": "Emin Koçak Kapadokya Termal Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Nevşehir",
+                "hotelTown": "Ürgüp",
+                "hotelRegion": "Ürgüp",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "emin_kocak_kapadokya_termal_hotel_59553.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "34,895500000000",
+                "latitude": "38,591100000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "emin-kocak-kapadokya-termal-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Özel Koylu Otel",
+                        "orderNo": 2
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": 5
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": 3
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": 4
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": 6
+                    },
+                    {
+                        "featureName": "Hayvan Dostu Otel",
+                        "orderNo": 7
+                    }
+                ],
+                "hotelId": 2613,
+                "shid": 10409,
+                "hotelName": "Le Meridien Bodrum Beach Resort  ",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Güvercinlik",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "le_meridien_bodrum_beach_resort__57362.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,542210000000",
+                "latitude": "37,172047000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "le-meridien-bodrum-beach-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 2610,
+                "shid": 10405,
+                "hotelName": "Kaya Palazzo Resort & Residences Le Chic Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Bitez",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "kaya_palazzo_resort_residences_le_chic_bodrum_57309.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "kaya-palazzo-resort-residences-le-chic-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 461,
+                "shid": 1120,
+                "hotelName": "Costa Farilya Special Class Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Gündoğan",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "costa_farilya_special_class_hotel_22513.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27.3405",
+                "latitude": "37.133",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "costa-farilya-special-class-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kaydıraklı Havuz",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 429,
+                "shid": 1069,
+                "hotelName": "Corendon Playa Kemer",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Beldibi",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "corendon_playa_kemer_21302.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,570600000000",
+                "latitude": "36,687800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "corendon-playa-kemer"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Yetişkinlere Özel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 9,
+                "shid": 384,
+                "hotelName": "Adam & Eve",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "İskele Mevki",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "adam_eve_4473.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,068800000000",
+                "latitude": "36,849800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "adam-eve"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 64,
+                "shid": 468,
+                "hotelName": "Sueno Hotels Golf Belek",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "Taşlıburun",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,029600000000",
+                "latitude": "36,860500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "sueno-hotels-golf-belek"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çevre Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 102,
+                "shid": 522,
+                "hotelName": "Hillside Beach Club",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Fethiye",
+                "hotelRegion": "Kalemya",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "hillside_beach_club_9393.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29,075700000000",
+                "latitude": "36,614300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "hillside-beach-club"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 99,
+                "shid": 517,
+                "hotelName": "D Resort Göcek",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Fethiye",
+                "hotelRegion": "Göcek",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "d_resort_gocek_9281.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "28,943900000000",
+                "latitude": "36,752500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "d-resort-gocek"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 98,
+                "shid": 516,
+                "hotelName": "Crystal Paraiso Verde Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "Boğazkent",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_paraiso_verde_resort_spa_9205.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,163600000000",
+                "latitude": "36,834200000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-paraiso-verde-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 96,
+                "shid": 512,
+                "hotelName": "Crystal Flora Beach Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Beldibi",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_flora_beach_resort_8971.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,565000000000",
+                "latitude": "36,715900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-flora-beach-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 79,
+                "shid": 493,
+                "hotelName": "Kempinski Barbaros Bay Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Yalıçiftlik",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "kempinski_barbaros_bay_bodrum_8192.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27.5107",
+                "latitude": "36.9919",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "kempinski-barbaros-bay-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 76,
+                "shid": 490,
+                "hotelName": "Diamond Of Bodrum Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Merkez",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,441200000000",
+                "latitude": "37,029600000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "diamond-of-bodrum-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Termal Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 70,
+                "shid": 481,
+                "hotelName": "Limak Thermal Boutique Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Yalova",
+                "hotelTown": "Termal",
+                "hotelRegion": "Termal",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "limak_thermal_boutique_hotel_7958.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29.1731",
+                "latitude": "40.6076",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "limak-thermal-boutique-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 69,
+                "shid": 474,
+                "hotelName": "Crystal Palace Luxury Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Çolaklı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_palace_luxury_resort_spa_7921.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,296900000000",
+                "latitude": "36,818700000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-palace-luxury-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 68,
+                "shid": 473,
+                "hotelName": "Crystal Sunrise Queen Luxury Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Kumköy",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_sunrise_queen_luxury_resort_spa_7900.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,974900000000",
+                "latitude": "36,861600000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-sunrise-queen-luxury-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 67,
+                "shid": 472,
+                "hotelName": "Crystal Deluxe Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_deluxe_resort_spa_7730.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,561800000000",
+                "latitude": "36,605100000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-deluxe-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 66,
+                "shid": 471,
+                "hotelName": "Crystal Admiral Resort Suites & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Kızılot",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_admiral_resort_suites_spa_7530.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,597300000000",
+                "latitude": "36,694600000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-admiral-resort-suites-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Koylu Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 65,
+                "shid": 470,
+                "hotelName": "Crystal Green Bay Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Güvercinlik",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_green_bay_resort_spa_7529.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,555000000000",
+                "latitude": "37,157900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-green-bay-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 63,
+                "shid": 466,
+                "hotelName": "Sueno Hotels Beach",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Sorgun",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "sueno_hotels_beach_7445.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,409900000000",
+                "latitude": "36,763000000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "sueno-hotels-beach"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 104,
+                "shid": 527,
+                "hotelName": "Hotel Turan Prince",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Çolaklı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "hotel_turan_prince_9497.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,290800000000",
+                "latitude": "36,819900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "hotel-turan-prince"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Emanet Kasa",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Buhar Odası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Fitness Merkezi",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Sauna",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Termal Havuz",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Termal Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Dart",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Masa Tenisi",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mini Futbol",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Step Aerobik",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Türk Kahvesi",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 55,
+                "shid": 449,
+                "hotelName": "Grand Yazıcı Club Turban Thermal Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Marmaris",
+                "hotelRegion": "Siteler",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "grand_yazici_club_turban_thermal_hotel_7035.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "28,242600000000",
+                "latitude": "36,828300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "grand-yazici-club-turban-thermal-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kongre Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Termal Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 52,
+                "shid": 445,
+                "hotelName": "Radisson Blu Resort & Spa Çeşme",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Ilıca",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "radisson_blu_resort_spa_cesme_6716.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,345500000000",
+                "latitude": "38,315800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "radisson-blu-resort-spa-cesme"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 50,
+                "shid": 443,
+                "hotelName": "Büyük Abant Oteli & Kongre Merkezi",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Bolu",
+                "hotelTown": "Abant",
+                "hotelRegion": "Abant",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "buyuk_abant_oteli_kongre_merkezi_6646.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,281800000000",
+                "latitude": "40,612400000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "buyuk-abant-oteli-kongre-merkezi"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 46,
+                "shid": 439,
+                "hotelName": "Limak Lara De Luxe Hotel & Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Muratpaşa",
+                "hotelRegion": "Lara",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "limak_lara_de_luxe_hotel_resort_6432.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30.86",
+                "latitude": "36.8544",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "limak-lara-de-luxe-hotel-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 45,
+                "shid": 438,
+                "hotelName": "Limak Limra Hotel & Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Kiriş",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "limak_limra_hotel_resort_6352.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,577500000000",
+                "latitude": "36,567100000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "limak-limra-hotel-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 44,
+                "shid": 436,
+                "hotelName": "Limak Atlantis De Luxe Hotel & Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "İleribaşı Mevkii",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "limak_atlantis_de_luxe_hotel_resort_6269.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31.0889",
+                "latitude": "36.8459",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "limak-atlantis-de-luxe-hotel-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 41,
+                "shid": 428,
+                "hotelName": "The Bay Beach Club",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Fethiye",
+                "hotelRegion": "Günlüklü",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "the_bay_beach_club_6146.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29.0186",
+                "latitude": "36.7154",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "the-bay-beach-club"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 35,
+                "shid": 422,
+                "hotelName": "NG Sapanca Wellness & Convention",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Sakarya",
+                "hotelTown": "Sapanca",
+                "hotelRegion": "Sapanca",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "ng_sapanca_wellness_convention_5938.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,214600000000",
+                "latitude": "40,689800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "ng-sapanca-wellness-convention"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Lunapark",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aquapark",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 31,
+                "shid": 418,
+                "hotelName": "Club Hotel Turan Prince World",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Kızılagaç",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "club_hotel_turan_prince_world_5585.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,528300000000",
+                "latitude": "36,728000000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "club-hotel-turan-prince-world"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 30,
+                "shid": 417,
+                "hotelName": "The Marmara Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Merkez",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "the_marmara_bodrum_5584.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,441100000000",
+                "latitude": "37,041900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "the-marmara-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Dezenfekte Edilmiş Oda ve Genel Alanlar",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 21,
+                "shid": 403,
+                "hotelName": "Divan Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Türkbükü",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "divan_bodrum_5189.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,374900000000",
+                "latitude": "37,133700000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "divan-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 14,
+                "shid": 390,
+                "hotelName": "Abant Palace",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Bolu",
+                "hotelTown": "Abant",
+                "hotelRegion": "Abant",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "abant_palace_4995.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,276000000000",
+                "latitude": "40,611170000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "abant-palace"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 11,
+                "shid": 386,
+                "hotelName": "Susesi Luxury Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "İskele Mevki",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "susesi_luxury_resort_4768.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31.0397",
+                "latitude": "36.8566",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "susesi-luxury-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Koylu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kano",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 103,
+                "shid": 525,
+                "hotelName": "D Maris Bay",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Marmaris",
+                "hotelRegion": "Hisarönü",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "d_maris_bay_9454.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "28,049100000000",
+                "latitude": "36,766200000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "d-maris-bay"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Kum Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 105,
+                "shid": 528,
+                "hotelName": "Blue Waters Club",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Sorgun",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "blue_waters_club_9566.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31.4335",
+                "latitude": "36.7569",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "blue-waters-club"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Türk Kahvesi",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 405,
+                "shid": 1038,
+                "hotelName": "Royal Wings Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Muratpaşa",
+                "hotelRegion": "Lara",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "royal_wings_hotel_20146.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,884300000000",
+                "latitude": "36,856200000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "royal-wings-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 247,
+                "shid": 786,
+                "hotelName": "Zeynep Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "Taşlıburun",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "zeynep_hotel_15483.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,010900000000",
+                "latitude": "36,859600000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "zeynep-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 392,
+                "shid": 1023,
+                "hotelName": "Alaçatı Marina Palace Butik Otel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Alaçatı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "alacati_marina_palace_butik_otel_19870.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26.3806",
+                "latitude": "38.2573",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "alacati-marina-palace-butik-otel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Yetişkinlere Özel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 366,
+                "shid": 981,
+                "hotelName": "Viento Hotel Alaçatı",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Alaçatı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "viento_hotel_alacati_19313.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,376200000000",
+                "latitude": "38,285800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "viento-hotel-alacati"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 351,
+                "shid": 961,
+                "hotelName": "Assos Barbarossa Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Çanakkale",
+                "hotelTown": "Ayvacık",
+                "hotelRegion": "Assos",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26.3699",
+                "latitude": "39.4914",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "assos-barbarossa-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Hayvan Dostu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Otopark",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Tarihi Destinasyon",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Wifi",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Fitness Merkezi",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 350,
+                "shid": 958,
+                "hotelName": "Argos in Cappadocia",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Nevşehir",
+                "hotelTown": "Merkez",
+                "hotelRegion": "Uçhisar",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "argos_in_cappadocia_18867.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "34,807800000000",
+                "latitude": "38,630600000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "argos-in-cappadocia"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Hayvan Dostu Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 349,
+                "shid": 957,
+                "hotelName": "D Resort Murat Reis Ayvalık",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Balıkesir",
+                "hotelTown": "Ayvalık",
+                "hotelRegion": "Sarımsaklı",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "d_resort_murat_reis_ayvalik_18825.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26.6608",
+                "latitude": "39.2814",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "d-resort-murat-reis-ayvalik"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 326,
+                "shid": 913,
+                "hotelName": "Trendy Aspendos Beach",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Sorgun",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "trendy_aspendos_beach_18081.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,290000000000",
+                "latitude": "36,818500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "trendy-aspendos-beach"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Yetişkinlere Özel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 325,
+                "shid": 912,
+                "hotelName": "Trendy Side Beach Hotels",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Side",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "trendy_side_beach_hotels_17930.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,390500000000",
+                "latitude": "36,778000000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "trendy-side-beach-hotels"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 307,
+                "shid": 887,
+                "hotelName": "Sueno Hotels Deluxe Belek",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "Taşlıburun",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "sueno_hotels_deluxe_belek_17573.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,034400000000",
+                "latitude": "36,855900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "sueno-hotels-deluxe-belek"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Tesis",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 306,
+                "shid": 886,
+                "hotelName": "Kimeros Park Holiday Village",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Göynük",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "kimeros_park_holiday_village_17495.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,551550000000",
+                "latitude": "36,647430000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "kimeros-park-holiday-village"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 275,
+                "shid": 829,
+                "hotelName": "Mandarin Oriental Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Türkbükü",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "mandarin_oriental_bodrum_16486.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,410600000000",
+                "latitude": "37,127800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "mandarin-oriental-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 264,
+                "shid": 813,
+                "hotelName": "Champion Holiday Village",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "Beldibi",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "champion_holiday_village_16057.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30.5676",
+                "latitude": "36.7077",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "champion-holiday-village"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Doğa Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 251,
+                "shid": 791,
+                "hotelName": "Cappadocia Cave Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Nevşehir",
+                "hotelTown": "Merkez",
+                "hotelRegion": "Göreme",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "34,831400000000",
+                "latitude": "38,641800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "cappadocia-cave-resort-spa"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 243,
+                "shid": 777,
+                "hotelName": "Manaspark Deluxe Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Fethiye",
+                "hotelRegion": "Ölüdeniz",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "hotel_manaspark_oludeniz_15307.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "29,128100000000",
+                "latitude": "36,556900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "manaspark-deluxe-hotel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 119,
+                "shid": 546,
+                "hotelName": "Crystal Tat Beach Golf Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "Üç Kum Tepesi",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_tat_beach_golf_resort_spa_10216.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,985300000000",
+                "latitude": "36,859800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-tat-beach-golf-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 226,
+                "shid": 748,
+                "hotelName": "Nashira Resort Hotel & Aqua Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Sorgun",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "nashira_resort_hotel_aqua_spa_14643.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "nashira-resort-hotel-aqua-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 215,
+                "shid": 733,
+                "hotelName": "Regnum Carya",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Serik",
+                "hotelRegion": "Karya Mevkii",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "regnum_carya_14210.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,003000000000",
+                "latitude": "36,862900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "regnum-carya"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 208,
+                "shid": 722,
+                "hotelName": "Ortunç Hotel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Balıkesir",
+                "hotelTown": "Ayvalık",
+                "hotelRegion": "Cunda",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "ortunc_hotel_13678.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26.617400000000",
+                "latitude": "39.336300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "ortunc-hotel"
+            },
+            {
+                "hotelfeatures": null,
+                "hotelId": 205,
+                "shid": 716,
+                "hotelName": "Nisi Butik Otel",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Balıkesir",
+                "hotelTown": "Ayvalık",
+                "hotelRegion": "Cunda",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "nisi_butik_otel_13615.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,657700000000",
+                "latitude": "39,333900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "nisi-butik-otel"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 196,
+                "shid": 696,
+                "hotelName": "Boyalık Beach Hotel & SPA",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "İzmir",
+                "hotelTown": "Çeşme",
+                "hotelRegion": "Boyalık",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "boyalik_beach_hotel_spa_13379.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,324600000000",
+                "latitude": "38,325900000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "boyalik-beach-hotel-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": 3
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": 2
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Bebek Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 191,
+                "shid": 687,
+                "hotelName": "Venezia Palace Deluxe Resort",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Muratpaşa",
+                "hotelRegion": "",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "venezia_palace_deluxe_resort_13179.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,908700000000",
+                "latitude": "36,856300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "venezia-palace-deluxe-resort"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 175,
+                "shid": 648,
+                "hotelName": "Delta Hotel By Marriott Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Yalıkavak",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "delta_hotel_by_marriott_bodrum_12783.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,294600000000",
+                "latitude": "37,121800000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "delta-hotel-by-marriott-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Aqua Park",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 174,
+                "shid": 647,
+                "hotelName": "Crystal Sunset Luxury Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Manavgat",
+                "hotelRegion": "Kumköy",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_sunset_luxury_resort_spa_12698.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "31,379900000000",
+                "latitude": "36,790500000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-sunset-luxury-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Çevre Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Spa Oteli",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 171,
+                "shid": 644,
+                "hotelName": "Xanadu Island",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Akyarlar",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "xanadu_island_12293.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27.285900000000",
+                "latitude": "36.959300000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "xanadu-island"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Çocuk Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Mavi Bayraklı Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Özel Plaj",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Hayvan Dostu Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 158,
+                "shid": 613,
+                "hotelName": "Assos Dove Hotel Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Çanakkale",
+                "hotelTown": "Ayvacık",
+                "hotelRegion": "Assos",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "assos_dove_hotel_resort_spa_11860.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "26,367900000000",
+                "latitude": "39,482100000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "assos-dove-hotel-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 150,
+                "shid": 599,
+                "hotelName": "Crystal Aura Beach Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Antalya",
+                "hotelTown": "Kemer",
+                "hotelRegion": "",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "crystal_aura_beach_resort_spa_11533.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "30,557600000000",
+                "latitude": "36,611700000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "crystal-aura-beach-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Lüks Otel",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 146,
+                "shid": 592,
+                "hotelName": "Hilton Dalaman Sarıgerme Resort & Spa",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Dalaman",
+                "hotelRegion": "Sarıgerme",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "hilton_dalaman_sarigerme_resort_spa_11357.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "28.7239",
+                "latitude": "36.709",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "hilton-dalaman-sarigerme-resort-spa"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Güvenli Turizm Sertifikası",
+                        "orderNo": 1
+                    },
+                    {
+                        "featureName": "Aile Dostu",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Balayı Oteli",
+                        "orderNo": null
+                    },
+                    {
+                        "featureName": "Denize Sıfır",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 123,
+                "shid": 559,
+                "hotelName": "Yasmin Resort Bodrum",
+                "boardName": null,
+                "hotelCountry": "Türkiye",
+                "hotelCity": "Muğla",
+                "hotelTown": "Bodrum",
+                "hotelRegion": "Turgutreis",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "yasmin_resort_bodrum_10355.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": "27,240300000000",
+                "latitude": "37,036700000000",
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "yasmin-resort-bodrum"
+            },
+            {
+                "hotelfeatures": [
+                    {
+                        "featureName": "Açık Restoran",
+                        "orderNo": null
+                    }
+                ],
+                "hotelId": 4379,
+                "shid": 168372,
+                "hotelName": "Can Vistabella Boutique Resort",
+                "boardName": null,
+                "hotelCountry": "bul",
+                "hotelCity": "Ibiza Town",
+                "hotelTown": "",
+                "hotelRegion": "",
+                "priceorder": 0,
+                "price": 0,
+                "discount": 0,
+                "currency": 0,
+                "discountrate": 0,
+                "srid": 0,
+                "mainimage": "bos.jpg",
+                "woxxcommit": 1,
+                "canceled": "Ücretsiz İptal Seçeneği",
+                "longitude": null,
+                "latitude": null,
+                "seoDescription": null,
+                "seoTitle": null,
+                "sefurl": "can-vistabella-boutique-resort"
+            }
+        ]
+    }
